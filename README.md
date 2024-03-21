@@ -83,6 +83,18 @@ pass=[Wi-Fi Password]
 
 1つのサーボ(SG90)と4つのLEDをWebで操作します。
 
+## 回路図
+
+![回路図](https://github.com/yasuyoshi64/ServoControlExample/blob/main/ServoControlExample.png?raw=true)
+
+## Web画面
+
+![Web画面](https://github.com/yasuyoshi64/ServoControlExample/blob/main/ServoControlExampleWeb.png?raw=true)
+
+LED1～4はトグルボタンで、LEDのON/OFFの操作ができます。<br/>
+サーボ1のスライダーでサーボの操作が可能です。<br/>
+トリム1でサーボのトリム調整が可能です、Saveボタンを押すとトリムがSDカードに記録されます。
+
 # _Sample project_
 
 (See the README.md file in the upper level 'examples' directory for more information about examples.)
